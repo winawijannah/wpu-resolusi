@@ -2,3 +2,5 @@ WPU RESOLUSI
 - Konsisten untuk membuat konten 
 - Membuat platform untuk pengelolaan video 
 - Membuat form diskusi 
+- Membuat merch shop
+- Kolaborasi dengan lebih banyak 
